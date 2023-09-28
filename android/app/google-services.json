@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570347094268",
+    "project_id": "voucherin-695ce",
+    "storage_bucket": "voucherin-695ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570347094268:android:54f01e9a83fbbd9ee9d779",
+        "android_client_info": {
+          "package_name": "com.example.voucherin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570347094268-vp89pvnosmm4o8l7trc8oq68otgd89ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsnifanIa9StVM0uLWi4WaOGi08RK9bkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570347094268-vp89pvnosmm4o8l7trc8oq68otgd89ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
